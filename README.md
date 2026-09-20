@@ -25,6 +25,8 @@ The project focuses on data preprocessing, handling missing values, categorical 
 
 ## 📂 Dataset
 
+https://www.kaggle.com/datasets/bhanupratapbiswas/loan-approval-prediction-case-study
+
 The dataset contains information about loan applicants, including:
 
 * Gender
